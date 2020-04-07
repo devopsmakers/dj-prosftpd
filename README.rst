@@ -2,6 +2,9 @@
 Django ProSFTPd
 =============================
 
+.. image:: https://img.shields.io/badge/Conventional%20Commits-1.0.0-green.svg
+     :target: https://conventionalcommits.org
+
 .. image:: https://badge.fury.io/py/dj-prosftpd.svg
     :target: https://badge.fury.io/py/dj-prosftpd
 
